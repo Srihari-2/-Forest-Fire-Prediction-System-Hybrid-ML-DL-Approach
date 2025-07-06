@@ -1,8 +1,5 @@
-# -Forest-Fire-Prediction-System-Hybrid-ML-DL-Approach
+Forest Fire Prediction:A Hybird Approach Using CBFR,LSTM, and XGBoost
 A hybrid wildfire prediction system using CBFR, LSTM, and XGBoost models with a Linear Regression meta-learner. It analyzes historical and real-time data to predict forest fire risks accurately, supporting early warnings and proactive disaster management
-# forest Fire Prediction System — Hybrid ML & DL Approach
-
-A context-driven wildfire prediction system built using a hybrid architecture that combines machine learning and deep learning models. This project focuses on forecasting forest fire risks by analyzing historical weather data and real-time anomalies to support early warning systems and disaster response.
 
 Features
 CBFR (Context-Based Fire Risk Model): Analyzes historical weather and wildfire data, detects anomalies using clustering techniques, and generates dynamic fire risk scores.  
